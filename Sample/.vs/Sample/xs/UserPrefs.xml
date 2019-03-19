@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1C723363-3826-4693-BF92-A9F0366B6F76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample/render/PdfPrint.cs">
+    <Files>
+      <File FileName="Sample/MainActivity.cs" Line="46" Column="44" />
+      <File FileName="Sample/render/PdfPrint.cs" Line="60" Column="33" />
+      <File FileName="Sample/Assets/report.html" Line="522" Column="1" />
+      <File FileName="Sample/render/EmptyCSSFile.css" Line="1" Column="1" />
+      <File FileName="Sample/render/EmptyClass.cs" Line="2" Column="11" />
+      <File FileName="Sample/Properties/AssemblyInfo.cs" Line="17" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample" expanded="True">
+            <Node name="Sample" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="render" expanded="True">
+                <Node name="PdfPrint.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
